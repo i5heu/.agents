@@ -1,2 +1,4 @@
-# skills
-my private skills
+# Mia's agent skills
+my skill collection
+
+
